@@ -1,6 +1,6 @@
-  ## Yashwanth Atluri
+   ## Yashwanth Atluri
   ![picture](https://github.com/YASHCHOWDARY/UMBC-DATA606-Capstone/assets/86242799/2b694eea-3bab-46c4-b3b8-15a1e68ef715)
-
+ 
 
 ## Contact Information
 - Email: yatluri1@umbc,edu
@@ -66,12 +66,12 @@ VI Solutions Bengaluru
 
 ##ACADEMIC PROJECTS
 ###Chat-Bot for college Using Deep Learning - JUNE 2021
--This Project is to help the fresher's and college most FAQS without connecting the office staff they can get information from
-college Website. (These is not only for college to other domains which mainly helps in customers satisfaction) students who has 
-queries regarding college and seniors experiences and reviews regarding College.
+-This Project aims to help the freshers and colleges most FAQS without connecting the office staff they can get information from
+the college Website. (These are not only for college to other domains that mainly help in customer satisfaction) students who have 
+queries regarding college and seniors' experiences and reviews regarding College.
 
 ###Customers Loyalty Analysis using FM models- MAY 2021
--This project is to find out loyal customers by checking the Recency, Frequency, and Monitoring. And we make not loyal customers to the loyal customers by sending mails like discounts, vouchers etc. This mainly helpful in online Shopping and 
+-This project is to find out loyal customers by checking the Recency, Frequency, and Monitoring. And we make not loyal customers to the loyal customers by sending emails like discounts, vouchers, etc. This is mainly helpful in Online Shopping and 
 many more.
 
 ###Human Activity Recognition with simple LSTM Model.-JUN2021-DEC2021
