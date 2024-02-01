@@ -1,5 +1,5 @@
                                                             # Yashwanth Atluri
-              ![picture](https://github.com/YASHCHOWDARY/UMBC-DATA606-Capstone/assets/86242799/2b694eea-3bab-46c4-b3b8-15a1e68ef715)
+  ![picture](https://github.com/YASHCHOWDARY/UMBC-DATA606-Capstone/assets/86242799/2b694eea-3bab-46c4-b3b8-15a1e68ef715)
 
 
 ## Contact Information
