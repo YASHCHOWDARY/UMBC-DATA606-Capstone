@@ -15,7 +15,7 @@
   - Anna University, Tamilnadu, India
   - Graduation Date: 06/2022
 
-#techical skills 
+## Technical Skills
 -Programming Languages: Python, C, Java, JavaScript
 
 -Web Technologies: HTML, CSS, Bootstrap, jQuery, React.js
@@ -25,7 +25,9 @@
 -Tools: Ansys, Streamlight
 
 -IDEs: Git, Visual Studio, Tableau, Google Colab, Jupyter
+
 -Operating Systems: Linux, Windows
+
 -Other: Data Modeling, Decision Making, Machine Learning, Sentiment Analysis, 
 
 ## Work Experience
