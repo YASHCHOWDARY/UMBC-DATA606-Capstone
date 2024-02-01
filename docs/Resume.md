@@ -1,5 +1,5 @@
-# Yashwanth Atluri
-![picture](https://github.com/YASHCHOWDARY/UMBC-DATA606-Capstone/assets/86242799/2b694eea-3bab-46c4-b3b8-15a1e68ef715)
+                                                            # Yashwanth Atluri
+              ![picture](https://github.com/YASHCHOWDARY/UMBC-DATA606-Capstone/assets/86242799/2b694eea-3bab-46c4-b3b8-15a1e68ef715)
 
 
 ## Contact Information
@@ -12,17 +12,17 @@
   - Graduation Date: 05/2024
 
 - Bachelor of Science in Electronics and Communications Engineering
-  - Anna University,Tamilnadu,India
+  - Anna University, Tamilnadu, India
   - Graduation Date: 06/2022
 
 ##techical skills 
 -Programming Languages: Python, C, Java, JavaScript
 -Web Technologies: HTML, CSS, Bootstrap, jQuery, React.js
 -Databases: SQL Server, MySQL, MongoDB, Azure
--Tools:Ansys, Streamlit
+-Tools: Ansys, Streamlight
 -IDEs: Git, Visual Studio, Tableau, Google Colab, Jupyter
 -Operating Systems: Linux, Windows
--Other: Data Modeling, Decision Making,Machine Learning, Sentiment Analysis, 
+-Other: Data Modeling, Decision Making, Machine Learning, Sentiment Analysis, 
 
 ## Work Experience
 ###  Data Analyst Intern
@@ -30,7 +30,7 @@
 - Banglore
 - Employment Date: 01/2022 - 06/2022, 
 - Assessment of data quality and completeness in preparation for data quality analysis.       
-- Using Visualization to present better insights through Dashboard.
+- Using Visualization to present better insights through the Dashboard.
 
 ##Data Science Intern
 -BEPEC SOLUTIONS 
