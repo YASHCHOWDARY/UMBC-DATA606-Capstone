@@ -5,7 +5,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
 
 # Load CSV files
-movies = pd.read_csv('movies.csv')
+movies = pd.read_csv('APP/movies.csv')
 
 # Display data using Streamlit
 st.title('Movie Recommendations')
