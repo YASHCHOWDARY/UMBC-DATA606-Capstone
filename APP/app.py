@@ -10,9 +10,6 @@ movies = pd.read_csv('APP/movies.csv')
 # Display data using Streamlit
 st.title('Movie Recommendations')
 
-# Display movies data
-st.subheader('Movies Data')
-st.write(movies)
 
 # Ask user for movie selection from titles from our data set
 selected_movie = st.selectbox('Select a movie:', movies['title'])
