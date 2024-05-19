@@ -5,6 +5,7 @@
 **Author: Yashwanth Atluri**
 - **GitHub:** [YASHCHOWDARY/UMBC-DATA606-Capstone](https://github.com/YASHCHOWDARY/UMBC-DATA606-Capstone)
 - **LinkedIn:** [yashwanthatluri](https://www.linkedin.com/in/yashwanthatluri/)
+- **Powerpoint:** (yashcapstone.pptx)
 
 ## 2. BACKGROUND
 The project aims to build a predictive model to design and implement a content-based movie recommendation system that leverages movie features and user preferences to deliver personalized and accurate movie suggestions, enhancing user engagement and satisfaction.
