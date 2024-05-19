@@ -82,4 +82,4 @@ The project aims to build a predictive model to design and implement a content-b
 ### Web App Development:
 - Developed a web application using Streamlit for users to interact with our trained recommendation models.
 
-Streamlit app: [UMBC Data606 Capstone Streamlit App](https://umbc-data60
+Streamlit app: [https://umbc-data606-capstone-crhlha4w5mdbxeanodzkvg.streamlit.app/]
