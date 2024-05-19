@@ -64,11 +64,11 @@ The project aims to build a predictive model to design and implement a content-b
 
 ### Top 10 Most Relevant Genres in Movies Dataset
 
-![Top 10 Genres](docs/Top 10 Most revalent Genres in Movies Dataset.png)
+![Top 10 Genres](https://github.com/YASHCHOWDARY/UMBC-DATA606-Capstone/raw/9d8f1c41f60fa601ffd6077c758e3b01d2bd8062/docs/Top%2010%20Most%20revalent%20Genres%20in%20Movies%20Dataset.png)
 
 ### Top 20 Movies with Highest Ratings in Rating Dataset
 
-![Top 20 Movies Ratings](docs/Top 20 movies with highest rating.png)
+![Top 20 Movies Ratings](https://github.com/YASHCHOWDARY/UMBC-DATA606-Capstone/raw/774a16a9070c407c92132597881229d72cb30a9f/docs/Top%2020%20movies%20with%20highest%20rating.png)
 
 ## Data Cleansing
 
