@@ -1,23 +1,23 @@
-```markdown
 # CONTENT-BASED MOVIE RECOMMENDATION SYSTEM
-- **Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang - SPRING 2024 Semester**
-- **Author: Yashwanth Atluri**
-  - **GitHub:** [https://github.com/YASHCHOWDARY/UMBC-DATA606-Capstone](https://github.com/YASHCHOWDARY/UMBC-DATA606-Capstone)
-  - **LinkedIn:** [https://www.linkedin.com/in/yashwanthatluri/](https://www.linkedin.com/in/yashwanthatluri/)
+
+**Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang - SPRING 2024 Semester**
+
+**Author: Yashwanth Atluri**
+- **GitHub:** [YASHCHOWDARY/UMBC-DATA606-Capstone](https://github.com/YASHCHOWDARY/UMBC-DATA606-Capstone)
+- **LinkedIn:** [yashwanthatluri](https://www.linkedin.com/in/yashwanthatluri/)
 
 ## 2. BACKGROUND
-* The project aims to build a predictive model to design and implement a content-based movie recommendation system that leverages movie features and user preferences to deliver personalized and accurate movie suggestions, enhancing user engagement and satisfaction.
+The project aims to build a predictive model to design and implement a content-based movie recommendation system that leverages movie features and user preferences to deliver personalized and accurate movie suggestions, enhancing user engagement and satisfaction.
 
-* **Research Questions:**
-  1. How can movie features be optimally combined for effective content-based recommendations?
-  2. How can user profiles dynamically evolve for improved accuracy in content-based movie suggestions?
-  3. Which metrics best evaluate the performance of content-based movie recommendation systems?
+### Research Questions:
+1. How can movie features be optimally combined for effective content-based recommendations?
+2. How can user profiles dynamically evolve for improved accuracy in content-based movie suggestions?
+3. Which metrics best evaluate the performance of content-based movie recommendation systems?
 
 ## 3. DATA
 
-**Description:**
-
-1. **Data Source:** *[Kaggle](https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset/data)*.
+### Description:
+1. **Data Source:** [Kaggle](https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset/data).
 
 2. **Data Size:**
    - Movies.csv = 560KB
@@ -36,7 +36,7 @@
    - The "Movies Dataset" contains movie-related information, including columns such as movie ID, title, and genres, with examples like unique identifiers (movieId), movie titles, and associated genres.
    - The "Ratings Dataset" comprises information on user-movie interactions, with columns like user ID, movie ID, rating (on a scale, e.g., 1 to 5 stars), and timestamp, featuring unique identifiers for users (userId) and movies (movieId).
 
-5. **Data dictionary:**
+5. **Data Dictionary:**
 
    **Movies.csv**
    | Column Name | Data Type | Definition                                      | Potential Values (Categorical) |
@@ -63,24 +63,23 @@
 
 ## Model Development
 
-1. **Predictive Analytics Techniques:**
-   - For our recommendation systems, we will utilize two primary approaches: content-based filtering and collaborative filtering. Content-based filtering will focus on the properties of the items themselves, while collaborative filtering will leverage user interaction data to make predictions.
+### Predictive Analytics Techniques:
+- For our recommendation systems, we will utilize two primary approaches: content-based filtering and collaborative filtering. Content-based filtering will focus on the properties of the items themselves, while collaborative filtering will leverage user interaction data to make predictions.
 
-2. **Training Methodology:**
-   - Our training process for content-based filtering involves several steps: first, we will preprocess the textual data to standardize and clean it. Next, we will apply Term Frequency-Inverse Document Frequency (TF-IDF) vectorization to convert text into a numerical format that can be easily processed. We will then use cosine similarity to measure the similarity between different items based on their vectorized forms. For collaborative filtering, we will adopt the nearest neighbors algorithm, which finds and uses the most similar user profiles to predict preferences for a given user.
+### Training Methodology:
+- Our training process for content-based filtering involves several steps: first, we will preprocess the textual data to standardize and clean it. Next, we will apply Term Frequency-Inverse Document Frequency (TF-IDF) vectorization to convert text into a numerical format that can be easily processed. We will then use cosine similarity to measure the similarity between different items based on their vectorized forms. For collaborative filtering, we will adopt the nearest neighbors algorithm, which finds and uses the most similar user profiles to predict preferences for a given user.
 
-3. **Required Python Libraries:**
-   - We will leverage several Python libraries for model development and evaluation:
-     - Libraries suitable for handling TF-IDF vectorization and calculating cosine similarities for content-based recommendation, as well as implementing the Nearest Neighbors algorithm for collaborative filtering.
-     - pandas: This library is crucial for efficient data manipulation and preprocessing, allowing us to prepare our datasets for the modeling phase.
+### Required Python Libraries:
+- We will leverage several Python libraries for model development and evaluation:
+  - Libraries suitable for handling TF-IDF vectorization, calculating cosine similarities for content-based recommendation, and implementing the Nearest Neighbors algorithm for collaborative filtering.
+  - pandas: This library is crucial for efficient data manipulation and preprocessing, allowing us to prepare our datasets for the modeling phase.
 
-4. **Development Platforms:**
-   - The development and training of our models can be conducted in various settings to accommodate different preferences and resources:
-     - Locally, using tools like Jupyter Notebook, which provides an interactive coding environment and facilitates the direct observation of code execution and results.
-     - Cloud-based environments such as Google Colab and GitHub CodeSpaces offer scalable resources and ease of access without the need for local setup, making them ideal for collaborative projects and high-performance computations.
+### Development Platforms:
+- The development and training of our models can be conducted in various settings to accommodate different preferences and resources:
+  - Locally, using tools like Jupyter Notebook provides an interactive coding environment and facilitates direct observation of code execution and results.
+  - Cloud-based environments such as Google Colab and GitHub CodeSpaces offer scalable resources and ease of access without needing local setup, making them ideal for collaborative projects and high-performance computations.
 
-5. **Web App Development:**
-   - Developed a web application using Streamlit for users to interact with our trained recommendation models.
+### Web App Development:
+- Developed a web application using Streamlit for users to interact with our trained recommendation models.
 
-   Streamlit app: [https://umbc-data606-capstone-crhlha4w5mdbxeanodzkvg.streamlit.app/](https://umbc-data606-capstone-crhlha4w5mdbxeanodzkvg.streamlit.app/)
-```
+Streamlit app: [UMBC Data606 Capstone Streamlit App](https://umbc-data60
