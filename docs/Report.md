@@ -60,32 +60,25 @@ The project aims to build a predictive model to design and implement a content-b
 7. **Which variables/columns may be selected as features/predictors for your ML models?**
    - genres
    - rating
+## Exploratory Data Analysis (EDA)
 
-#Exploratory Data Analysis (EDA)
+### Top 10 Most Relevant Genres in Movies Dataset
 
-This Image shows the top 10 most revalent Genres in Movies Dataset 
+![Top 10 Genres](docs/Top 10 Most revalent Genres in Movies Dataset.png)
 
+### Top 20 Movies with Highest Ratings in Rating Dataset
 
-This Image shows Top 20 movies with highest rating in Rating data set 
+![Top 20 Movies Ratings](docs/Top 20 movies with highest rating.png)
 
-##Data Cleansing:
-Handling Missing Values:
+## Data Cleansing
+
+### Handling Missing Values:
 
 No missing values were detected in the dataset, ensuring that all records contain complete information.
-Handling Duplicate Rows:
+
+### Handling Duplicate Rows:
 
 No duplicate rows were found in the dataset, indicating data consistency and preventing redundancy.
-
-
-
-
-
-
-
-
-
-
-
 
 ## Model Development
 
