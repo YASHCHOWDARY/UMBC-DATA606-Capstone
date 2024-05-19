@@ -61,6 +61,32 @@ The project aims to build a predictive model to design and implement a content-b
    - genres
    - rating
 
+#Exploratory Data Analysis (EDA)
+
+This Image shows the top 10 most revalent Genres in Movies Dataset 
+
+
+This Image shows Top 20 movies with highest rating in Rating data set 
+
+##Data Cleansing:
+Handling Missing Values:
+
+No missing values were detected in the dataset, ensuring that all records contain complete information.
+Handling Duplicate Rows:
+
+No duplicate rows were found in the dataset, indicating data consistency and preventing redundancy.
+
+
+
+
+
+
+
+
+
+
+
+
 ## Model Development
 
 ### Predictive Analytics Techniques:
